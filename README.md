@@ -1,16 +1,14 @@
-### Hi there 👋
+### bem-vindo ao meu perfil❤️‍🔥
 
-<!--
-**leticia005/leticia005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Me chamo leticia
 
-Here are some ideas to get you started:
+Sou aluna do  [Alura](https://www.alura.com.br/), e estudante da 2° série;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Esse espaço é dedicado para organizar e compartilhar meus projetos desenvolvidos.
+
+### quer entrar em contato? envie um 📪
+
+  📫 leticiaesteralves200@gmail.com
+  instagram: leticia_alvess4
+
+ ![](https://media.tenor.com/Hn3sDZt3VyMAAAAC/ooops-family-guy.gif)
